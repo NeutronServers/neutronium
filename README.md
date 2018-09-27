@@ -1,6 +1,6 @@
 ## Neutronium Issue Tracker
 
-This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website, please use support[at]neutronservers[dot]com.
+This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website or is a personal account issue, please email support@neutronservers.com.
 
 ### Reporting Bugs
 
