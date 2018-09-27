@@ -17,4 +17,4 @@ Please follow these guidelines when reporting a bug:
 * Make sure the feature doesn't already exist
 * Make sure the feature hasn't already been requested (it may already be a feature on the developer build of the site)
 
-**README.md file based on https://github.com/gmodstore/gmodstore-issues/edit/master/README.md**
+**README.md file based on https://github.com/gmodstore/gmodstore-issues/master/README.md**
